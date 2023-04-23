@@ -1,2 +1,3 @@
 # CSS-Parallex-Effect
-Created with CodeSandbox
+Created By Ayush Atulya
+
