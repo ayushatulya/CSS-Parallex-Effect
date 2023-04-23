@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&family=Quicksand:wght@700&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+
+.parallexone{
+width: 100vw;
+height: 100vh;
+background-image: url("https://images.unsplash.com/photo-1448518340475-e3c680e9b4be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80");
+background-size: 100% 100%;
+background-attachment: fixed;
+
+div{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+font-family: 'Quicksand', sans-serif;
+text-align: center;
+font-size: 40px;
+color:rgb(231, 231, 231);
+}
+}
+
+
+.parallextwo{
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://images.unsplash.com/photo-1491514104444-e033f313a5fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  
+  div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  color:rgb(231, 231, 231);
+  }
+  }
